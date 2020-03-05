@@ -1,5 +1,9 @@
 Email of Login Information
-
+* https://www.wikihow.com/Install-PHPMailer
+* https://getcomposer.org/download/
+* https://www.webhostinghub.com/help/learn/email/email-from-web-page/using-phpmailer-to-send-mail
+* https://community.cloudways.com/t/class-phpmailer-not-found/821
+* https://phppot.com/php/user-activation-email-sending-script-in-php/
 
 System Generated Password
 
