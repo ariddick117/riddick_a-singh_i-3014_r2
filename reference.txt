@@ -6,7 +6,7 @@ Email of Login Information
 * https://phppot.com/php/user-activation-email-sending-script-in-php/
 
 System Generated Password
-
+* https://www.formget.com/php-password-generator/
 
 Password Encryption
 
